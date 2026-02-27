@@ -1,0 +1,2 @@
+Bu algoritma, eğitilmiş bir XTTS modelini kullanarak uzun metinleri akıllı parçalama (intelligent chunking) yöntemiyle seslendirir. 
+Özellikle Atatürk'ün Gençliğe Hitabesi gibi uzun metinlerde, modelin sentez kalitesini bozmadan parçaları birleştirerek tek bir .wav dosyası üretir.
